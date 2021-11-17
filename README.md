@@ -1,5 +1,5 @@
 # E-commercewebite
-1.Project Overview 
+1.I am using pycharm IDE
 2.Django Project Setting up 
 3.Create Django Model 
 4.Adding products to database
