@@ -1,4 +1,7 @@
 # E-commercewebite
+In this project 
+Back-end:python,Django
+Front-end:HTML5,CSS3,Javascript
 1.I am using pycharm IDE
 2.Django Project Setting up 
 3.Create Django Model 
